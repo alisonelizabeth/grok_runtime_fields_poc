@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-eui-starter',
+  pathPrefix: '/grok_runtime_fields_poc',
   siteMetadata: {
     title: 'Gatsby EUI Starter',
     description:
